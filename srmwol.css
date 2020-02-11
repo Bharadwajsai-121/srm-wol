@@ -1,0 +1,54 @@
+.placeholder {
+    text-align: left;
+}  
+h1 ,h2 {
+    color: indigo; 
+    font-size: large;
+    font-family: sans-serif;
+} 
+button { 
+    float: right;
+    border-radius: 0px; 
+    padding:10px; 
+    color:blue; 
+    
+}   
+img {
+    height : 400px;
+} 
+
+ h1 {
+     text-align: right; 
+     float: right; 
+     padding:40px; 
+     font-size: xx-large;
+ } 
+ h2 {
+    text-align: left; 
+    float: right; 
+     width: 400px;
+    font-size: small;
+} 
+ .loginform {
+     float: right; 
+     text-align: right;
+     padding: 40px; 
+     width: 40px;
+     height: 40px;
+     font-size: xx-large;
+ } 
+
+.username {
+    text-align: left; 
+     float: right; 
+     padding:30px;
+     width: 400px; 
+     font-size: small;
+}
+
+.password {
+    text-align: left; 
+    float: right; 
+    padding:20px; 
+    font-size: small;
+}
